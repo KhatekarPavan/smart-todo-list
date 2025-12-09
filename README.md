@@ -19,4 +19,5 @@ A simple and responsive To-Do List web application built using HTML, CSS, and Ja
 2. Open `index.html` in any browser
 
 ## Author
-CSE Graduate | Fresher
+CSE Graduate | Pavan Khatekar
+
